@@ -1,0 +1,3 @@
+Saving all output to "/home/user03/USER03Q6.csv". Enter "record" with no arguments to stop it.
+'SUM(COALESCE(TO_NUMBER(REGEXP_SUBSTR(USER03.YELPCHECKIN.CHECKIN, '^\d+(.\d+)?', 1)), 0))','BASE.CATEGORIES'
+No rows selected (295.442 seconds)
